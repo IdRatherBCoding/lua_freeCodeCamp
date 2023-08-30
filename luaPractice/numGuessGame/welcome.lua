@@ -22,6 +22,8 @@ Welcome = {}
                 -- Wait for 1 second
             end
         end
+
+        os.execute('clear')
     end
 
 return Welcome
