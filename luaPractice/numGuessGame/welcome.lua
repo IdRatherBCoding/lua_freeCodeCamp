@@ -23,7 +23,7 @@ Welcome = {}
             end
         end
 
-        os.execute('clear')
+        -- os.execute('clear')
     end
 
 return Welcome
